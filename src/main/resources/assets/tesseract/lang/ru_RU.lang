@@ -1,0 +1,7 @@
+tile.tesseract:tesseract.name=Тессеракт
+gui.tesseract.items=ТЕССЕРАКТ - ПРЕДМЕТЫ
+gui.tesseract.fluid=ТЕССЕРАКТ - ЖИДКОСТЬ
+gui.tesseract.energy=ТЕССЕРАКТ - ЭНЕРГИЯ
+gui.tesseract.set=УСТАНОВИТЬ
+gui.tesseract.remove=УДАЛИТЬ
+gui.tesseract.add=ДОБАВИТЬ
